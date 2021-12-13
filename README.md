@@ -1,10 +1,10 @@
-## Hi there 👋, I'm Renan! Glad to see you here! 
+## Hi there 👋, I'm Renan!
 ---
 [![Linkedin Badge](https://img.shields.io/badge/-renandnt-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/renandnt)
 [![GitHub renandantasp](https://img.shields.io/badge/-renandantasp-b84d4b?style=flat-square&logo=Gmail&logoColor=white)](mailto:renandantasp@gmail.com)
 [![GitHub renandantasp](https://img.shields.io/badge/-renandantasp-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/renandantasp)
 
-I'm a Computer Science undergraduate student 🎓 from [ Universidade Federal de São Carlos](https://www2.ufscar.br/). I’m currently learning Front End Development with Vue.js and React.js. The majority of my repos are college work
+I'm a Computer Science undergraduate student 🎓 from [ Universidade Federal de São Carlos](https://www2.ufscar.br/). I’m currently learning Front End Development with Vue.js and React.js. The majority of my repos are college work.
 
 <br>
 
