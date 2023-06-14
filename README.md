@@ -4,7 +4,7 @@
 [![GitHub renandantasp](https://img.shields.io/badge/-renandantasp-b84d4b?style=flat-square&logo=Gmail&logoColor=white)](mailto:renandantasp@gmail.com)
 [![GitHub renandantasp](https://img.shields.io/badge/-renandantasp-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/renandantasp)
 
-I'm a Front-End Developer with a degree in Computer Science at [Universidade Federal de São Carlos](https://www2.ufscar.br/) and I'm currently a Developer at [Redação Nota 1000](https://portal.redacaonota1000.com.br/home). I have experience working with React, Next, and I'm having a bit of experience with Vue and Nuxt as well. 
+I'm a Software Engineer with a degree in Computer Science at [Universidade Federal de São Carlos](https://www2.ufscar.br/).
 
 The majority of my repos are either college work or personal projects like [Kodama](https://github.com/renandantasp/Kodama) and my [Pokedex](https://github.com/renandantasp/pokedex)!
 
