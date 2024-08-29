@@ -10,8 +10,3 @@ The majority of my repos are either college work or personal projects like [Koda
 
 If you want to know me better, visit my [Homepage](https://renandantas.xyz)!
 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renandantasp&layout=compact&theme=dracula&hide=jupyter%20notebook,java)](https://github.com/anuraghazra/github-readme-stats)
-
-
